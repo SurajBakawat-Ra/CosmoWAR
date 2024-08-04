@@ -23,7 +23,7 @@ import java.nio.IntBuffer;
 
 import org.cocos2dx.lib.Cocos2dxActivity;
 
-import com.breakbounce.gamezapp.ResData;
+import com.solaragames.cosmowar.ResData;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.games.Games;

@@ -10,8 +10,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.breakbounce.gamezapp.PTPlayer;
-import com.breakbounce.gamezapp.R;
+import com.solaragames.cosmowar.PTPlayer;
+import com.solaragames.cosmowar.R;
 
 import java.util.List;
 

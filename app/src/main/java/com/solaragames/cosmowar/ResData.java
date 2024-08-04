@@ -1,8 +1,8 @@
-package com.breakbounce.gamezapp;
+package com.solaragames.cosmowar;
 
 import android.content.Context;
 
-import static com.breakbounce.gamezapp.BuildConfig.*;
+import static com.solaragames.cosmowar.BuildConfig.*;
 
 public class ResData {
 

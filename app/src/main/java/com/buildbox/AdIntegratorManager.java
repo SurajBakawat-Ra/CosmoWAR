@@ -9,7 +9,7 @@ import android.widget.Toast;
 import androidx.preference.PreferenceManager;
 
 import com.apponboard.aob_sessionreporting.AOBReporting;
-import com.breakbounce.gamezapp.ResData;
+import com.solaragames.cosmowar.ResData;
 import com.buildbox.consent.ConsentHelper;
 import com.buildbox.consent.SdkConsentInfo;
 import com.secrethq.utils.PTJniHelper;
@@ -18,7 +18,6 @@ import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.lang.ref.WeakReference;
-import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;

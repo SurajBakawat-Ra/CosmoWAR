@@ -1,7 +1,5 @@
 package com.buildbox.consent;
 
-import com.breakbounce.gamezapp.ResData;
-
 import java.util.ArrayList;
 import java.util.List;
 
