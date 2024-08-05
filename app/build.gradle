@@ -14,6 +14,9 @@ android {
         targetSdkVersion 34
         multiDexEnabled true
 
+        versionCode 1
+        versionName "R1"
+
         ndk {
             moduleName "player_shared"
         }
